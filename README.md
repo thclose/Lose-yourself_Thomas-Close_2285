@@ -6,6 +6,8 @@ link: https://thomasclose215044.invisionapp.com/board/Loose-Yourself-ckiykbw0j02
 
 ## Wireframe
 
-<a href="wireframe.xd"> wireframe.xd </a>
+<a href="wireframe.xd"> Wireframe</a>
 
 ## Application
+
+<a href="Lose%20yourself.xd"> Application </a>
